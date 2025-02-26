@@ -12,17 +12,7 @@ These surfaces can create **beautiful and complex 3D shapes** that are useful in
 
 In the given code, the coordinates \( (x, y, z) \) of the surface are defined by these parametric equations:
 
-\[
-x = 0.655866 \cdot \cos(1.03002 + u) \cdot (2 + \cos(v))
-\]
-
-\[
-y = 0.71878 \cdot \cos(1.40772 - u) \cdot (2 + 0.868837 \cdot \cos(2.43773 + v))
-\]
-
-\[
-z = 0.868837 \cdot \cos(2.43773 + v) \cdot (2 + 0.405098 \cdot \cos(0.377696 - v))
-\]
+![Image](https://github.com/user-attachments/assets/9bf340d8-177b-4ec1-b842-01f96f4d34f2)
 
 ### **Breakdown of Each Equation:**
 1. **Cosine-based Deformation**:  
