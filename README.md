@@ -139,12 +139,3 @@ animate();
 - **Rotates the shape** over time.
 - **Continuously re-renders** to animate the scene.
 
----
-
-## **Final Words**
-- **The Pisot Triaxial Surface is a complex shape defined by cosine functions.**
-- **The code uses Three.js to visualize it in 3D.**
-- **A colorful gradient effect is applied based on its parametric values.**
-- **A starry background is added for a mesmerizing space-like effect.**
-
-This **combination of mathematics, graphics, and animation** makes for a **stunning and interactive visualization!** 🚀✨
